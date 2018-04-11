@@ -3,9 +3,8 @@
 -- Title: WhackAMole
 -- Name: Ryoma Scott
 -- Course: ICS2O/3C
--- This programmakes an object appear on the screen for an amount of time
--- and then disappears if the user clicks on the object, his or her score 
---increases by 1
+-- This program makes an object appear on the screen for an amount of time.
+-- The object disappears if the user clicks on it. When clicked, the users score increases by 1
 ----------------------------------------------------------------------------------------------------------
 
 --hide the status bar
